@@ -1,2 +1,2 @@
 # Algorithms
-Algoritmos soltos criados na faculdade
+Funções, procedimentos e algoritmos no geral criados na faculdade para consulta ou estudos futuros
